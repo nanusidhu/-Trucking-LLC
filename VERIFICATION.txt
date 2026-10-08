@@ -1,0 +1,16 @@
+USA Trucking LLC — Node.js deployment verification
+
+Verified locally on 2026-10-08 using Node.js 22.22.0.
+Hostinger account deployment has not been performed.
+
+/: HTTP 200, server-rendered business content present
+/about: HTTP 200, server-rendered business content present
+/services: HTTP 200, server-rendered business content present
+/why-choose-us: HTTP 200, server-rendered business content present
+/reviews: HTTP 200, server-rendered business content present
+/contact: HTTP 200, server-rendered business content present
+Referenced JavaScript, CSS, and image assets: HTTP 200
+Quote preparation, honest not-sent status, and text-file download: PASS
+390px mobile layout and menu-to-contact navigation: PASS
+Browser runtime errors: NONE
+Startup from a different working directory: PASS
